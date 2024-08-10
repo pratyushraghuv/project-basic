@@ -1,0 +1,24 @@
+* h1{
+      text-align: center;
+      background-color: rgb(71, 174, 242);
+}
+* figure{
+     text-align: center;
+}
+a:hover{
+    background-color: rgb(175, 122, 229);
+}
+* h2{
+    text-decoration: solid;
+}
+img {
+    border-radius: 50px;
+}
+figcaption{
+    text-decoration: solid;
+    background-color: aqua;
+}
+* footer{
+    text-align: center;
+    text-decoration: line-through;
+}
